@@ -20,6 +20,7 @@ import (
 func unused() {
 	// this function does nothing
 	// and is called nowhere
+	x
 }
 
 type apiConfig struct {
